@@ -16,10 +16,6 @@ A simple and responsive web application that allows users to check current weath
 - **Backend (optional):** Node.js, Express (if you used any server logic)
 - **API:** [OpenWeatherMap](https://openweathermap.org/api)
 
-## 📸 Screenshots
-
-_Add screenshots of your UI here (if available)_
-
 ## 🧪 How to Run Locally
 
 1. **Clone this repository**
@@ -27,4 +23,3 @@ _Add screenshots of your UI here (if available)_
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
-# Weather-app
